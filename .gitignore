@@ -6,4 +6,4 @@ Audios
 Audios2
 whisper
 *.json
-.venv
+.venv/
