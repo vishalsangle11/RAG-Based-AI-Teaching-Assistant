@@ -1,0 +1,9 @@
+*.txt
+*.joblib
+json
+Video
+Audios
+Audios2
+whisper
+*.json
+.venv
